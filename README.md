@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **edward150898@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
