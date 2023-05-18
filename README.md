@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/46edward/](https://github.com/46edward/)
+- 👨‍💻 All of my projects are available at [https://github.com/46edward/](https://github.com/46edward?tab=repositories)
 
 - 📫 How to reach me **edward150898@gmail.com**
 
