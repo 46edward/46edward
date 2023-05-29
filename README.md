@@ -23,3 +23,4 @@
 [<img src="assets/screenshots/Marathon-GoIT-cv-proj.png" width="50%">](https://inspiring-froyo-2d4a66.netlify.app/)
 [<img src="assets/screenshots/landing-page.png" width="50%">](https://comfy-fenglisu-3a0cbf.netlify.app/)
 [<img src="assets/screenshots/booking.png" width="50%">](https://6474e725cecdad39ffd48ec0--quiet-brioche-0325a9.netlify.app/)
+[<img src="assets/screenshots/t-gajda.png" width="50%">](https://6474ed487840e235cffe1c8f--subtle-douhua-51319a.netlify.app/)
