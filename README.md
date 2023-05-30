@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [help focusing app](https://github.com/46edward/focus-time)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/46edward/](https://github.com/46edward?tab=repositories)
 
-- 📫 How to reach me **edward150898@gmail.com**
+- 📫 How to reach me **edward1508@icloud.com**
 
 
 <p align="left">
