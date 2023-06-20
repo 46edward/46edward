@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eduard</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer, UX/UI designer</h3>
 
 - 🔭 I’m currently working on [help focusing app](https://github.com/46edward/focus-time)
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://github.com/46edward/](https://github.com/46edward?tab=repositories)
-
-- 📫 How to reach me **edward1508@icloud.com**
+- 👨‍💻 Patr of my projects are available at [https://github.com/46edward/](https://github.com/46edward?tab=repositories)
 
 
 <p align="left">
